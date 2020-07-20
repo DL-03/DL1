@@ -1,4 +1,4 @@
-type: GenericSmelter
+type: GenericCrafter
 name: Copper Plate Press
 description: ...
 size: 1
@@ -6,6 +6,7 @@ hasPower: true
 hasLiquids: false
 hasItems: true
 craftTime: 100
+updateEffect: smeltsmoke
 consumes: {
   power: 0.3
   items: {
