@@ -1,0 +1,25 @@
+type: GenericCrafter
+name: Lead Plate Press
+description: ...
+size: 1
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 100
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.3
+  items: {
+    items: [
+      lead/1
+    ]
+  }
+}
+requirements: [
+  copper/25
+  stone/100
+  graphite/10
+]
+category: crafting
+research: copper-wall
+outputItem: lead-plate/1

@@ -1,0 +1,24 @@
+type: GenericCrafter
+name: Stone Plate Press
+description: ...
+size: 1
+hasPower: false
+hasLiquids: false
+hasItems: true
+craftTime: 100
+updateEffect: smeltsmoke
+consumes: {
+  items: {
+    items: [
+      stone/1
+    ]
+  }
+}
+requirements: [
+  plank/50
+  plank-plate/5
+  stone/25
+]
+category: crafting
+research: copper-wall
+outputItem: stone-plate/1

@@ -1,0 +1,23 @@
+type: GenericCrafter
+name: Graphite Plate Press
+description: ...
+size: 1
+hasPower: false
+hasLiquids: false
+hasItems: true
+craftTime: 100
+updateEffect: smeltsmoke
+consumes: {
+  items: {
+    items: [
+      graphite/1
+    ]
+  }
+}
+requirements: [
+  stone/25
+  graphite-plate/10
+]
+category: crafting
+research: copper-wall
+outputItem: graphite-plate/1

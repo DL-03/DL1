@@ -1,0 +1,26 @@
+type: GenericCrafter
+name: Bronze Plate Press
+description: ...
+size: 1
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 100
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.7
+  items: {
+    items: [
+      bronze/1
+    ]
+  }
+}
+requirements: [
+  copper/50
+  stone/100
+  graphite/25
+  lead/25
+]
+category: crafting
+research: copper-wall
+outputItem: bronze-plate/1
