@@ -1,0 +1,15 @@
+type: flyingUnit
+name: Energy units
+description: ...
+speed: 0.1
+flying: true
+health: 5000
+engineOffset: 5.5
+range: 160
+weapon: {
+  name: energy-blaster
+  length: 0
+  reload: 5
+  alternate: true
+  bullet: lightning
+}

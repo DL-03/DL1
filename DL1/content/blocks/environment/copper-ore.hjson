@@ -1,0 +1,5 @@
+type: OreBlock
+name: Copper Ore
+itemDrop: copper-ore
+variants: 1
+playerUnmineable: true

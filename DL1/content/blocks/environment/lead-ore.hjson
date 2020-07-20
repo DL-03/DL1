@@ -1,0 +1,5 @@
+type: OreBlock
+name: Lead Ore
+itemDrop: lead-ore
+variants: 1
+playerUnmineable: true

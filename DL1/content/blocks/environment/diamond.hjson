@@ -1,0 +1,5 @@
+type: OreBlock
+name: Diamond
+itemDrop: diamond
+variants: 1
+playerUnmineable: true

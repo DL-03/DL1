@@ -1,0 +1,11 @@
+{
+  "type": "material",
+  "name": "Wood",
+  "description": "...",
+  "color": "787800",
+  "explosiveness": 0f,
+  "fliammbility": 0.75f,
+  "radiioactivity": 0f,
+  "hardness": 1,
+  "cost": "1f",
+}

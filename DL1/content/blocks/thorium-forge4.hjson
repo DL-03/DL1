@@ -1,0 +1,27 @@
+type: GenericSmelter
+name: Thorium Forge 1
+description: ...
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 100
+consumes: {
+  power: 1.8
+  items: {
+    items: [
+      thorium-ore/3
+    ]
+  }
+}
+requirements: [
+  stone/250
+  iron/100
+  aluminum/25
+  lead/100
+  copper/100
+  bronze/25
+]
+category: crafting
+research: copper-wall
+outputItem: thorium/1

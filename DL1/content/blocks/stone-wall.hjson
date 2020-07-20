@@ -1,0 +1,10 @@
+name: Stone Wall
+description: ...
+type: Wall
+health: 250
+size: 1
+requirements: [
+  stone/10
+]
+category: defense
+research: copper-wall

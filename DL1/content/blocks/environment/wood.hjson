@@ -1,0 +1,5 @@
+type: OreBlock
+name: Wood
+itemDrop: wood
+variants: 1
+playerUnmineable: true

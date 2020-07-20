@@ -1,0 +1,22 @@
+type: GenericSmelter
+name: Plank Forge 2 lvl
+description: ...
+size: 2
+hasPower: false
+hasLiquids: false
+hasItems: true
+craftTime: 200
+consumes: {
+  items: {
+    items: [
+      wood/7
+    ]
+  }
+}
+requirements: [
+  plank/25
+  stone/10
+]
+category: crafting
+research: plank-forge1
+outputItem: plank/1

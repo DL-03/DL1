@@ -1,0 +1,5 @@
+type: OreBlock
+name: Thorium Ore
+itemDrop: thorium-ore
+variants: 1
+playerUnmineable: true

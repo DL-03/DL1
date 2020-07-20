@@ -1,0 +1,11 @@
+{
+  "type": "material",
+  "name": "Stone",
+  "description": "...",
+  "color": "777777",
+  "explosiveness": 0f,
+  "fliammbility": 0f,
+  "radiioactivity": 0f,
+  "hardness": 2,
+  "cost": "0.5f",
+}

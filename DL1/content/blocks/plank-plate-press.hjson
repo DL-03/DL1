@@ -1,0 +1,23 @@
+type: GenericCrafter
+name: Plank Plate Press
+description: ...
+size: 1
+hasPower: false
+hasLiquids: false
+hasItems: true
+craftTime: 100
+updateEffect: smeltsmoke
+consumes: {
+  items: {
+    items: [
+      plank/1
+    ]
+  }
+}
+requirements: [
+  plank/25
+  stone/25
+]
+category: crafting
+research: copper-wall
+outputItem: plank-plate/1

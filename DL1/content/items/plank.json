@@ -1,0 +1,11 @@
+{
+  "type": "material",
+  "name": "Plank",
+  "description": "...",
+  "color": "aaaa00",
+  "explosiveness": 0f,
+  "fliammbility": 1f,
+  "radiioactivity": 0f,
+  "hardness": 1,
+  "cost": "1f",
+}

@@ -1,0 +1,25 @@
+type: GenericSmelter
+name: Lead Forge 2
+description: ...
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 100
+consumes: {
+  power: 0.6
+  items: {
+    items: [
+      lead-ore/5
+    ]
+  }
+}
+requirements: [
+  stone/75
+  copper/50
+  iron/25
+  aluminum/15
+]
+category: crafting
+research: lead-forge2
+outputItem: lead/2

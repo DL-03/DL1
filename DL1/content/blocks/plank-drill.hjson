@@ -1,0 +1,11 @@
+name: Plank Drill
+description: ...
+type: Drill
+size: 2
+tier: 2
+drillTime: 450
+requirements: [
+  plank/10
+]
+category: production
+research: laser-drill

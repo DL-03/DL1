@@ -1,0 +1,5 @@
+type: OreBlock
+name: Aluminum Ore
+itemDrop: aluminum-ore
+variants: 1
+playerUnmineable: true

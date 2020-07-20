@@ -1,0 +1,5 @@
+type: floor
+name: Stone
+itemDrop: stone
+variants: 1
+playerUnmineable: true

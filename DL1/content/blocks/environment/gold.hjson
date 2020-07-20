@@ -1,0 +1,5 @@
+type: OreBlock
+name: Gold
+itemDrop: gold
+variants: 1
+playerUnmineable: true

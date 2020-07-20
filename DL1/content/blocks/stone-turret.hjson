@@ -1,0 +1,27 @@
+type: DoubleTurret
+name: Stone Turret
+description: ...
+health: 100
+size: 1
+reload: 4
+range: 100
+ammoUseEffect: shellEjectSmall
+inaccuracy: 30
+rotatespeed: 12
+ammo: {
+  stone: {
+    speed: 3
+    damage: 3
+    bulletWidth: 7
+    bulletHeight: 9
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    ammoMultiplier: 5
+  }
+}
+requirements: [
+  stone/30
+  plank/10
+]
+category: turret
+research: duo

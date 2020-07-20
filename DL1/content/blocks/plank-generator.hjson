@@ -1,0 +1,22 @@
+type: SingleTypeGenerator
+name: Plank Generator
+description: ...
+size: 2
+hasPower: true
+hasItems: true
+itemDuration: 30
+powerProduction: 1.2
+consumes: {
+  items: {
+    items: [
+      plank/1
+    ]
+    optional: true
+  }
+}
+requirements: [
+  plank/50
+  stone/25
+]
+category: power
+research: copper-wall

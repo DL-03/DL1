@@ -1,0 +1,5 @@
+type: OreBlock
+name: Titanuim Ore
+itemDrop: titanium-ore
+variants: 1
+playerUnmineable: true

@@ -1,0 +1,11 @@
+{
+  "type": "material",
+  "name": "Steel",
+  "description": "...",
+  "color": "eeeeee",
+  "explosiveness": 0f,
+  "fliammbility": 0f,
+  "radiioactivity": 0f,
+  "hardness": 3,
+  "cost": "1f",
+}

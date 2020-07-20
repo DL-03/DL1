@@ -1,0 +1,22 @@
+type: GenericSmelter
+name: Copper Forge 1
+description: ...
+size: 2
+hasPower: false
+hasLiquids: false
+hasItems: true
+craftTime: 250
+consumes: {
+  items: {
+    items: [
+      copper-ore/5
+      coal/5
+    ]
+  }
+}
+requirements: [
+  stone/25
+]
+category: crafting
+research: copper-wall
+outputItem: copper/1

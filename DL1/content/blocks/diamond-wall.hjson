@@ -1,0 +1,10 @@
+name: Diamond Wall
+description: ...
+type: Wall
+health: 5000
+size: 1
+requirements: [
+  diamond/30
+]
+category: defense
+research: iron-wall

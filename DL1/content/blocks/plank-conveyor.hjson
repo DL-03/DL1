@@ -1,0 +1,10 @@
+type: Conveyor
+name: Plank conveyor
+description: ...
+requirements: [
+  plank-plate/1
+  wood/5
+]
+category: distribution
+speed: 0.015
+research: conveyor
