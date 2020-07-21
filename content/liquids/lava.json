@@ -1,0 +1,10 @@
+{
+  "name": "Lava",
+  "description": "...",
+  "color": "ffffff",
+  "explosiveness": 0,
+  "fliammbility": 1,
+  "temperature": 10.0,
+  "visicosity": 0.9,
+  "flameColor": "ffffff"
+}

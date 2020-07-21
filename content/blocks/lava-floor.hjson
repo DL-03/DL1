@@ -1,0 +1,13 @@
+type: Floor
+name: Lava
+isLiquid: true
+variants: 1
+blendGroup: water
+cacheLayer: tar
+speedMultiplier: 0.17
+liquidDrop: lava
+status: melting
+statusDuration: 240
+drownTime: 90
+walkEffect: melting
+drownUpdateEffect: burning
