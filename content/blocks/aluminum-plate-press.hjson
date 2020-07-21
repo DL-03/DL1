@@ -16,9 +16,10 @@ consumes: {
   }
 }
 requirements: [
-  copper/25
-  stone/100
-  graphite/10
+  copper/50
+  lead/50
+  stone/50
+  graphite-plate/6
 ]
 category: crafting
 research: copper-wall

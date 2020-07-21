@@ -18,7 +18,7 @@ consumes: {
 requirements: [
   copper/50
   stone/100
-  graphite/25
+  graphite-plate/6
   lead/25
 ]
 category: crafting

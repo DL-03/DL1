@@ -15,10 +15,10 @@ consumes: {
   }
 }
 requirements: [
-  plank/50
-  plank-plate/5
-  stone/25
+  plank/25
+  stone-plate/6
+  stone/50
 ]
 category: crafting
-research: copper-wall
+research: plank-plate-press
 outputItem: stone-plate/1

@@ -1,0 +1,11 @@
+name: Bronze Wall
+description: ...
+type: Wall
+health: 700
+size: 1
+requirements: [
+  bronze-plate/6
+  bronze/6
+]
+category: defense
+research: large-iron-wall

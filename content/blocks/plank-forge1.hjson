@@ -14,8 +14,8 @@ consumes: {
   }
 }
 requirements: [
-  plank/10
-  plank-plate/5
+  plank/5
+  plank-plate/6
 ]
 category: crafting
 research: copper-wall

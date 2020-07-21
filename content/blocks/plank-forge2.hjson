@@ -14,8 +14,9 @@ consumes: {
   }
 }
 requirements: [
-  plank/25
-  stone/10
+  plank/10
+  stone-plate/6
+  stone/25
 ]
 category: crafting
 research: plank-forge1
