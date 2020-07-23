@@ -15,10 +15,20 @@ consumes: {
   }
 }
 requirements: [
-  plank/50
-  stone/50
-  iron/25
   iron-plate/6
+  graphite-plate/6
+  aluminum-plate/6
+  lead-plate/6
+  copper-plate/6
+  stone-plate/6
+  plank-plate/6
+  iron/25
+  graphite/25
+  aluminum/50
+  lead/75
+  copper/75
+  stone/150
+  plank/50
 ]
 category: crafting
 research: plank-forge2

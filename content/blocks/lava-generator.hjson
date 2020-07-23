@@ -1,0 +1,21 @@
+type: BurnerGenerator
+name: Lava Generator
+description: Uses Lava for Energy
+size: 2
+hasPower: true
+hasItems: false
+itemCapacity: 10
+hasLiquids: true
+liquidCapacity: 10
+itemDuration: 90
+powerProduction: 10
+consumes: {
+  liquid: lava/0.5
+}
+requirements: [
+  iron-plate/50
+  iron/10
+  stone/25
+]
+category: power
+research: differential-generator

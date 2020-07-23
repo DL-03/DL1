@@ -1,7 +1,7 @@
 {
   "type": "material",
   "name": "Plank",
-  "description": "...",
+  "description": "Treated Wood",
   "color": "aaaa00",
   "explosiveness": 0f,
   "fliammbility": 1f,

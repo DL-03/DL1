@@ -15,7 +15,7 @@ consumes: {
   }
 }
 requirements: [
-  plank-plate/6
+  plank/10
   stone/25
 ]
 category: crafting

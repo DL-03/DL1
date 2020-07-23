@@ -16,9 +16,10 @@ consumes: {
   }
 }
 requirements: [
-  copper/25
+  stone-plate/6
+  plank-plate/6
   stone/100
-  graphite/10
+  plank/25
 ]
 category: crafting
 research: stone-plate-press

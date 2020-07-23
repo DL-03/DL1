@@ -16,10 +16,20 @@ consumes: {
   }
 }
 requirements: [
-  copper/50
-  stone/100
+  iron-plate/6
   graphite-plate/6
-  lead/25
+  aluminum-plate/6
+  lead-plate/6
+  copper-plate/6
+  stone-plate/6
+  plank-plate/6
+  iron/25
+  graphite/50
+  aluminum/50
+  lead/75
+  copper/75
+  stone/250
+  plank/50
 ]
 category: crafting
 research: copper-wall
