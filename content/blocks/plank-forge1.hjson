@@ -18,5 +18,5 @@ requirements: [
   plank/5
 ]
 category: crafting
-research: copper-wall
+research: core-shard
 outputItem: plank/1

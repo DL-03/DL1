@@ -1,0 +1,40 @@
+type: GenericSmelter
+name: Gold Forge 1 lvl
+description: ...
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 100
+consumes: {
+  power: 1.8
+  items: {
+    items: [
+      gold-ore/5
+    ]
+  }
+}
+requirements: [
+  steel-plate/6
+  bronze-plate/6
+  iron-plate/6
+  graphite-plate/6
+  aluminum-plate/6
+  lead-plate/6
+  copper-plate/6
+  stone-plate/6
+  plank-plate/6
+  steel/25
+  bronze/50
+  iron/50
+  graphite/50
+  aluminum/75
+  lead/200
+  copper/150
+  stone/500
+  plank/50
+
+]
+category: crafting
+research: aluminum-forge4
+outputItem: gold/1

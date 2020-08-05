@@ -6,7 +6,7 @@ size: 1
 reload: 4
 range: 100
 ammoUseEffect: shellEjectSmall
-inaccuracy: 30
+inaccuracy: 10
 rotatespeed: 12
 ammo: {
   stone: {
@@ -24,4 +24,4 @@ requirements: [
   plank/10
 ]
 category: turret
-research: duo
+research: core-shard

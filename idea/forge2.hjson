@@ -1,0 +1,6 @@
+research: copper-wall
+requirements:[
+  stone-plate/6
+  stone/50
+]
+category: crafting

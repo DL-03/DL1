@@ -1,0 +1,10 @@
+name: Steel Wall
+description: ...
+type: Wall
+health: 1500
+size: 1
+requirements: [
+  steel/6
+]
+category: defense
+research: large-bronze-wall

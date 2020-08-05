@@ -1,0 +1,30 @@
+name: Gold Drill
+description: ...
+type: Drill
+size: 4
+tier: 6
+drillTime: 1250
+requirements: [
+  gold-plate/6
+  steel-plate/6
+  bronze-plate/6
+  iron-plate/6
+  graphite-plate/6
+  aluminum-plate/6
+  lead-plate/6
+  copper-plate/6
+  stone-plate/6
+  plank-plate/6
+  gold/25
+  steel/25
+  bronze/50
+  iron/50
+  graphite/50
+  aluminum/75
+  lead/100
+  copper/100
+  stone/500
+  plank/75
+]
+category: production
+research: laser-drill

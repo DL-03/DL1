@@ -1,0 +1,42 @@
+type: GenericCrafter
+name: Diamond Plate Press
+description: ...
+size: 1
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 150
+updateEffect: smeltsmoke
+consumes: {
+  power: 2.4
+  items: {
+    items: [
+      diamond/1
+    ]
+  }
+}
+requirements: [
+  gold-plate/6
+  steel-plate/6
+  bronze-plate/6
+  iron-plate/6
+  graphite-plate/6
+  aluminum-plate/6
+  lead-plate/6
+  copper-plate/6
+  stone-plate/6
+  plank-plate/6
+  gold/25
+  steel/50
+  bronze/100
+  iron/100
+  graphite/250
+  aluminum/200
+  lead/250
+  copper/250
+  stone/1500
+  plank/100
+]
+category: crafting
+research: gold-plate-press
+outputItem: diamond-plate/1

@@ -30,5 +30,5 @@ requirements: [
   plank/50
 ]
 category: crafting
-research: copper-wall
+research: graphite-plate-press
 outputItem: iron-plate/1

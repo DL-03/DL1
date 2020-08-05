@@ -27,5 +27,5 @@ requirements: [
   plank/25
 ]
 category: crafting
-research: copper-wall
+research: aluminum-plate-press
 outputItem: graphite-plate/1

@@ -15,7 +15,9 @@ consumes: {
   }
 }
 requirements: [
-  stone/25
+  stone-plate/6
+  plank-plate/6
+  stone/50
 ]
 category: crafting
 research: copper-wall

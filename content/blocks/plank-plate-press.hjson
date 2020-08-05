@@ -19,5 +19,5 @@ requirements: [
   stone/25
 ]
 category: crafting
-research: copper-wall
+research: plank-forge1
 outputItem: plank-plate/1

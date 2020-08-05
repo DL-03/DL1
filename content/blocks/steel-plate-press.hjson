@@ -1,0 +1,38 @@
+type: GenericCrafter
+name: Steel Plate Press
+description: ...
+size: 1
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 150
+updateEffect: smeltsmoke
+consumes: {
+  power: 1.2
+  items: {
+    items: [
+      steel/1
+    ]
+  }
+}
+requirements: [
+  bronze-plate/6
+  iron-plate/6
+  graphite-plate/6
+  aluminum-plate/6
+  lead-plate/6
+  copper-plate/6
+  stone-plate/6
+  plank-plate/6
+  bronze/25
+  iron/25
+  graphite/50
+  aluminum/75
+  lead/100
+  copper/100
+  stone/500
+  plank/50
+]
+category: crafting
+research: bronze-plate-press
+outputItem: steel-plate/1

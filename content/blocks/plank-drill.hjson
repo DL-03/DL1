@@ -3,10 +3,10 @@ description: ...
 type: Drill
 size: 2
 tier: 2
-drillTime: 350
+drillTime: 2500
 requirements: [
   plank/3
   plank-plate/6
 ]
 category: production
-research: laser-drill
+research: plank-conveyor

@@ -1,0 +1,23 @@
+name: DL1
+description: ...
+loadout: basicFoundation
+startingItems: [
+  plank/25
+  plank-plate/25
+]
+conditionWave: 10
+launchPeriod: 5
+requirements: [
+  {
+    type: ZoneWave
+    zone: groundZero
+    wave: 0
+  }
+  {
+    type: Unlock
+    block: copper-wall
+  }
+]
+resources: [
+
+]
