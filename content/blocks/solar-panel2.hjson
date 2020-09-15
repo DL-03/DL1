@@ -1,0 +1,17 @@
+type: SolarGenerator
+name: Solar Panel 2 lvl
+description: ...
+size: 2
+hasPower: true
+hasItems: false
+hasLiquids: false
+powerProduction: 0.02
+requirements: [
+  stone-plate/6
+  plank-plate/6
+  stone/50
+  plank/50
+  silicon/10
+]
+category: power
+research: differential-generator

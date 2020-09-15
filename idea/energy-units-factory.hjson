@@ -1,0 +1,19 @@
+name: Energy Units Factory
+description: ...
+type: UnitFactory
+unitType: energy-units
+size: 5
+produceTime: 5000
+consumes: {
+  power: 5.0
+  items: {
+    items: [
+      plank/10
+    ]
+  }
+}
+category: units
+research: router
+requirements: [
+  plank/100000
+]
