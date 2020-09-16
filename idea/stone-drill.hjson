@@ -1,0 +1,14 @@
+name: Stone Drill
+description: ...
+type: Drill
+size: 2
+tier: 2
+drillTime: 2000
+requirements: [
+  stone/40
+  plank/16
+  stone-plate/6
+  plank-plate/6
+]
+category: production
+research: plank-drill

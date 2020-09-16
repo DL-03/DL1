@@ -1,0 +1,27 @@
+type: SolarGenerator
+name: Solar Panel 7 lvl
+description: ...
+size: 3
+hasPower: true
+hasItems: false
+hasLiquids: false
+powerProduction: 2.75
+requirements: [
+  diamond-plate/9
+  gold-plate/9
+  steel-plate/9
+  bronze-plate/9
+  iron-plate/9
+  stone-plate/9
+  plank-plate/9
+  diamond/75
+  gold/350
+  steel/500
+  bronze/750
+  iron/100
+  stone/3000
+  plank/750
+  silicon/500
+]
+category: power
+research: solar-panel6
