@@ -15,7 +15,6 @@ consumes: {
   }
 }
 requirements: [
-  diamond-plate/6
   gold-plate/6
   steel-plate/6
   bronze-plate/6
@@ -26,7 +25,6 @@ requirements: [
   copper-plate/6
   stone-plate/6
   plank-plate/6
-  diamond/25
   gold/75
   steel/150
   bronze/250
