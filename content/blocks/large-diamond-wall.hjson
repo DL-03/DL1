@@ -4,7 +4,7 @@ type: Wall
 health: 12000
 size: 2
 requirements: [
-  diamond/50
+  diamond/24
 ]
 category: defense
 research: iron-wall

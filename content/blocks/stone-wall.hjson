@@ -4,7 +4,7 @@ type: Wall
 health: 250
 size: 1
 requirements: [
-  stone-plate/6
+  stone/6
 ]
 category: defense
 research: copper-wall

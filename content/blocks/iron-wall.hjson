@@ -4,7 +4,6 @@ type: Wall
 health: 400
 size: 1
 requirements: [
-  iron-plate/6
   iron/6
 ]
 category: defense

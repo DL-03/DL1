@@ -5,7 +5,7 @@ size: 3
 hasPower: true
 hasItems: false
 hasLiquids: false
-powerProduction: 2.75
+powerProduction: 3.5
 requirements: [
   diamond-plate/9
   gold-plate/9

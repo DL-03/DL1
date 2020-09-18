@@ -1,21 +1,27 @@
-name: Plank Drill
+name: Bronze Drill
 description: ...
 type: Drill
 size: 2
-tier: 2
-drillTime: 1000
+tier: 4
+drillTime: 275
 drillEffect: mine
 consumes: {
   liquid: {
   	liquid: water
-  	amount: 0.03
+  	amount: 0.1
   	optional: true
   	booster: true
   }
 }
 requirements: [
-  plank/3
+  bronze/25
+  iron/50
+  stone/150
+  plank/45
+  bronze-plate/6
+  iron-plate/6
+  stone-plate/6
   plank-plate/6
 ]
 category: production
-research: plank-conveyor
+research: iron-drill

@@ -1,0 +1,29 @@
+name: Steel Drill
+description: ...
+type: Drill
+size: 2
+tier: 5
+drillTime: 200
+drillEffect: mine
+consumes: {
+  liquid: {
+  	liquid: water
+  	amount: 0.225
+  	optional: true
+  	booster: true
+  }
+}
+requirements: [
+  steel/25
+  bronze/50
+  iron/75
+  stone/250
+  plank/65
+  steel-plate/6
+  bronze-plate/6
+  iron-plate/6
+  stone-plate/6
+  plank-plate/6
+]
+category: production
+research: bronze-drill

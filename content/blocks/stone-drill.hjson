@@ -1,21 +1,23 @@
-name: Plank Drill
+name: Stone Drill
 description: ...
 type: Drill
 size: 2
 tier: 2
-drillTime: 1000
+drillTime: 625
 drillEffect: mine
 consumes: {
   liquid: {
   	liquid: water
-  	amount: 0.03
+  	amount: 0.05
   	optional: true
   	booster: true
   }
 }
 requirements: [
-  plank/3
+  stone/40
+  plank/16
+  stone-plate/6
   plank-plate/6
 ]
 category: production
-research: plank-conveyor
+research: plank-drill

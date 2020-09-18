@@ -5,7 +5,7 @@ size: 2
 hasPower: true
 hasItems: false
 hasLiquids: false
-powerProduction: 0.1
+powerProduction: 0.2
 requirements: [
   iron-plate/6
   stone-plate/6

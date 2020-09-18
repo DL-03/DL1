@@ -5,7 +5,7 @@ size: 2
 hasPower: true
 hasItems: false
 hasLiquids: false
-powerProduction: 0.007
+powerProduction: 0.01
 requirements: [
   plank-plate/6
   plank/50
