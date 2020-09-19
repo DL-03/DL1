@@ -1,30 +1,34 @@
 type: GenericSmelter
-name: Iron Forge 2 lvl
+name: Iron Forge 4 lvl
 description: ...
 size: 2
 hasPower: true
 hasLiquids: false
 hasItems: true
-craftTime: 200
+craftTime: 150
 consumes: {
-  power: 0.6
+  power: 1.6
   items: {
     items: [
-      iron-ore/5
+      iron-ore/3
     ]
   }
 }
 requirements: [
+  steel-plate/6
+  bronze-plate/6
   graphite-plate/6
   aluminum-plate/6
   iron-plate/6
   stone-plate/6
   plank-plate/6
-  graphite/25
-  aluminum/25
-  iron/25
-  stone/350
+  steel/25
+  bronze/50
+  graphite/100
+  aluminum/100
+  iron/100
+  stone/650
 ]
 category: crafting
-research: iron-forge2
+research: iron-forge4
 outputItem: iron/2

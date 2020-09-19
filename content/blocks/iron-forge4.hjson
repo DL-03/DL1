@@ -1,26 +1,32 @@
 type: GenericSmelter
-name: Copper Forge 2
+name: Iron Forge 3 lvl
 description: ...
 size: 2
 hasPower: true
 hasLiquids: false
 hasItems: true
-craftTime: 100
+craftTime: 175
 consumes: {
-  power: 0.6
+  power: 1
   items: {
     items: [
-      copper-ore/5
+      iron-ore/4
     ]
   }
 }
 requirements: [
+  bronze-plate/6
+  graphite-plate/6
+  aluminum-plate/6
   iron-plate/6
   stone-plate/6
   plank-plate/6
-  iron/25
-  stone/75
+  bronze/25
+  graphite/50
+  aluminum/50
+  iron/50
+  stone/450
 ]
 category: crafting
-research: copper-forge2
-outputItem: copper/2
+research: iron-forge3
+outputItem: iron/2

@@ -1,0 +1,5 @@
+type: OreBlock
+name: Amethyst Ore
+itemDrop: amethyst-ore
+variants: 1
+playerUnmineable: true
