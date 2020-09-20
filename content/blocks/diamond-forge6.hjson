@@ -1,5 +1,5 @@
 type: GenericSmelter
-name: Plank Forge 6 lvl
+name: Diamond Forge 1 lvl
 description: ...
 size: 3
 hasPower: true
@@ -10,7 +10,7 @@ consumes: {
   power: 3.2
   items: {
     items: [
-      diamond-ore/5
+      diamond-ore/3
     ]
   }
 }

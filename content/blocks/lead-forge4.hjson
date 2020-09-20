@@ -1,34 +1,36 @@
 type: GenericSmelter
-name: Iron Forge 2 lvl
+name: Lead Forge 3 lvl
 description: ...
 size: 2
 hasPower: true
 hasLiquids: false
 hasItems: true
-craftTime: 200
+craftTime: 75
 consumes: {
-  power: 0.6
+  power: 1.2
   items: {
     items: [
-      iron-ore/4
+      lead-ore/3
     ]
   }
 }
 requirements: [
-  graphite-plate/6
-  aluminum-plate/6
+  bronze-plate/6
   iron-plate/6
+  aluminum-plate/6
+  graphite-plate/6
   stone-plate/6
   plank-plate/6
   lead-plate/6
   copper-plate/6
-  graphite/25
-  aluminum/25
-  iron/25
-  stone/350
+  bronze/25
+  stone/150
+  copper/75
+  iron/50
+  aluminum/50
+  graphite/75
   lead/50
-  copper/50
 ]
 category: crafting
-research: iron-forge2
-outputItem: iron/1
+research: lead-forge3
+outputItem: lead/1

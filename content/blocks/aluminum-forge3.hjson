@@ -10,7 +10,7 @@ consumes: {
   power: 0.6
   items: {
     items: [
-      aluminum-ore/5
+      aluminum-ore/4
     ]
   }
 }
@@ -33,4 +33,4 @@ requirements: [
 ]
 category: crafting
 research: aluminum-forge2
-outputItem: aluminum/2
+outputItem: aluminum/1

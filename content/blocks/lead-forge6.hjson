@@ -1,16 +1,16 @@
 type: GenericSmelter
-name: Copper Forge 5 lvl
+name: Lead Forge 5 lvl
 description: ...
 size: 3
 hasPower: true
 hasLiquids: false
 hasItems: true
-craftTime: 25
+craftTime: 30
 consumes: {
-  power: 2.4
+  power: 2.8
   items: {
     items: [
-      copper-ore/4
+      lead-ore/4
     ]
   }
 }
@@ -19,18 +19,22 @@ requirements: [
   steel-plate/9
   bronze-plate/9
   iron-plate/9
+  aluminum-plate/9
+  graphite-plate/9
   stone-plate/9
   plank-plate/9
   lead-plate/9
   copper-plate/9
   gold/25
   steel/50
-  bronze/100
-  iron/250
-  stone/750
-  lead/600
-  copper/650
+  bronze/75
+  stone/800
+  copper/350
+  iron/175
+  aluminum/325
+  graphite/400
+  lead/300
 ]
 category: crafting
-research: copper-forge5
-outputItem: copper/2
+research: lead-forge5
+outputItem: lead/2

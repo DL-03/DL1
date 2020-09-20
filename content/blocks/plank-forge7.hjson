@@ -10,7 +10,7 @@ consumes: {
   power: 5.0
   items: {
     items: [
-      wood/1
+      wood/2
     ]
   }
 }
@@ -40,4 +40,4 @@ requirements: [
 ]
 category: crafting
 research: plank-forge6
-outputItem: plank/2
+outputItem: plank/3

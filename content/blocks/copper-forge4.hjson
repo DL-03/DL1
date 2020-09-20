@@ -1,5 +1,5 @@
 type: GenericSmelter
-name: Copper Forge 3
+name: Copper Forge 3 lvl
 description: ...
 size: 2
 hasPower: true
@@ -10,7 +10,7 @@ consumes: {
   power: 1.2
   items: {
     items: [
-      copper-ore/4
+      copper-ore/3
     ]
   }
 }
@@ -19,10 +19,14 @@ requirements: [
   iron-plate/6
   stone-plate/6
   plank-plate/6
+  lead-plate/6
+  copper-plate/6
   bronze/25
   iron/50
   stone/175
+  lead/150
+  copper/150
 ]
 category: crafting
 research: copper-forge3
-outputItem: copper/2
+outputItem: copper/1

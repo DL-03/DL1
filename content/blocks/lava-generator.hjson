@@ -13,9 +13,14 @@ consumes: {
   liquid: lava/0.5
 }
 requirements: [
-  iron-plate/50
-  iron/10
-  stone/25
+  steel-plate/12
+  bronze-plate/12
+  iron-plate/12
+  steel/50
+  bronze/100
+  iron/350
+  stone/500
+
 ]
 category: power
 research: differential-generator

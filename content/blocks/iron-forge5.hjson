@@ -10,7 +10,7 @@ consumes: {
   power: 1.6
   items: {
     items: [
-      iron-ore/3
+      iron-ore/2
     ]
   }
 }
@@ -22,13 +22,17 @@ requirements: [
   iron-plate/6
   stone-plate/6
   plank-plate/6
+  lead-plate/6
+  copper-plate/6
   steel/25
   bronze/50
   graphite/100
   aluminum/100
   iron/100
   stone/650
+  lead/250
+  copper/250
 ]
 category: crafting
 research: iron-forge4
-outputItem: iron/2
+outputItem: iron/1

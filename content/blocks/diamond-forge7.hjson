@@ -1,20 +1,21 @@
 type: GenericSmelter
-name: Copper Forge 5 lvl
+name: Diamond Forge 2 lvl
 description: ...
 size: 3
 hasPower: true
 hasLiquids: false
 hasItems: true
-craftTime: 25
+craftTime: 150
 consumes: {
-  power: 2.4
+  power: 3.6
   items: {
     items: [
-      copper-ore/4
+      diamond-ore/2
     ]
   }
 }
 requirements: [
+  diamond-plate/9
   gold-plate/9
   steel-plate/9
   bronze-plate/9
@@ -23,14 +24,15 @@ requirements: [
   plank-plate/9
   lead-plate/9
   copper-plate/9
-  gold/25
-  steel/50
-  bronze/100
-  iron/250
-  stone/750
-  lead/600
-  copper/650
+  diamond/25
+  gold/50
+  steel/75
+  bronze/180
+  iron/450
+  stone/1650
+  lead/1100
+  copper/1250
 ]
 category: crafting
-research: copper-forge5
-outputItem: copper/2
+research: diamond-forge6
+outputItem: diamond/1

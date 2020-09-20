@@ -1,5 +1,5 @@
 type: GenericSmelter
-name: Lead Forge 2
+name: Lead Forge 2 lvl
 description: ...
 size: 2
 hasPower: true
@@ -10,16 +10,25 @@ consumes: {
   power: 0.6
   items: {
     items: [
-      lead-ore/5
+      lead-ore/4
     ]
   }
 }
 requirements: [
+  iron-plate/6
+  aluminum-plate/6
+  graphite-plate/6
+  stone-plate/6
+  plank-plate/6
+  lead-plate/6
+  copper-plate/6
   stone/75
   copper/50
   iron/25
-  aluminum/15
+  aluminum/25
+  graphite/25
+  lead/25
 ]
 category: crafting
 research: lead-forge2
-outputItem: lead/2
+outputItem: lead/1
