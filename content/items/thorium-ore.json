@@ -2,7 +2,7 @@
   "type": "resource",
   "name": "Thorium Ore",
   "description": "...",
-  "color": "ffffff",
+  "color": "a576a7",
   "explosiveness": 0.1f,
   "fliammbility": 0f,
   "radiioactivity": 0.1f,
