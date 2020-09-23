@@ -5,10 +5,10 @@ size: 4
 tier: 7
 drillTime: 75
 consumes: {
+  power: 7.5
   liquid: {
   	liquid: water
-  	amount: 0.5
-  	optional: true
+  	amount: 0.8
   	booster: true
   }
 }

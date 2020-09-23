@@ -1,11 +1,11 @@
-type: GenericCrafter
+type: GenericSmelter
 name: Molecular Transformer
 description: ...
 size: 3
 hasPower: true
 hasLiquids: true
 hasItems: true
-craftTime: 75
+craftTime: 150
 consumes: {
   power: 8.0
   items: {
@@ -31,11 +31,7 @@ requirements: [
 ]
 category: crafting
 research: copper-wall
-outputItem: {
-  items: {
-    items: [
-      wood/5
-      stone/5
-    ]
-  }
-}
+outputItem: [
+  copper/5
+  lead/5
+]

@@ -1,0 +1,31 @@
+type: GenericSmelter
+name: Lava Crafter
+description: ...
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 50
+itemCapacity: 15
+consumes: {
+  power: 2.8
+  items: {
+    items: [
+      iron/15
+    ]
+  }
+  liquid: water/0.5
+}
+requirements: [
+  steel-plate/12
+  bronze-plate/12
+  iron-plate/12
+  steel/25
+  bronze/75
+  iron/300
+  stone/1000
+
+]
+category: crafting
+research: differential-generator
+outputLiquid: lava/0.4
