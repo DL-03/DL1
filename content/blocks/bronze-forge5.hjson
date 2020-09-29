@@ -1,20 +1,23 @@
 type: GenericSmelter
-name: Aluminum Forge 2 lvl
+name: Bronze Forge 3 lvl
 description: ...
 size: 2
 hasPower: true
 hasLiquids: false
 hasItems: true
-craftTime: 350
+craftTime: 225
 consumes: {
-  power: 0.6
+  power: 4.8
   items: {
     items: [
-      aluminum-ore/4
+      copper/5
+      aluminum/1
     ]
   }
 }
 requirements: [
+  steel-plate/6
+  bronze-plate/6
   iron-plate/6
   graphite-plate/6
   aluminum-plate/6
@@ -22,15 +25,16 @@ requirements: [
   copper-plate/6
   stone-plate/6
   plank-plate/6
-  iron/25
-  graphite/25
-  aluminum/25
-  lead/50
-  copper/50
-  stone/100
-  plank/25
-
+  steel/35
+  bronze/85
+  iron/175
+  graphite/300
+  aluminum/300
+  lead/650
+  copper/700
+  stone/550
+  plank/150
 ]
 category: crafting
-research: aluminum-forge2
-outputItem: aluminum/1
+research: bronze-forge4
+outputItem: bronze/1

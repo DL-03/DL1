@@ -6,7 +6,7 @@ hasPower: true
 hasLiquids: true
 hasItems: true
 craftTime: 50
-itemCapacity: 15
+itemCapacity: 30
 consumes: {
   power: 2.8
   items: {
@@ -28,4 +28,4 @@ requirements: [
 ]
 category: crafting
 research: differential-generator
-outputLiquid: lava/0.4
+outputLiquid: lava/1

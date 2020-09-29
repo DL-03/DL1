@@ -5,7 +5,7 @@ size: 2
 hasPower: true
 hasLiquids: false
 hasItems: true
-craftTime: 50
+craftTime: 300
 consumes: {
   power: 1.2
   items: {
@@ -34,5 +34,5 @@ requirements: [
 
 ]
 category: crafting
-research: aluminum-forge4
+research: aluminum-forge3
 outputItem: aluminum/1

@@ -1,0 +1,30 @@
+{
+	"type": "GenericSmelter",
+	"name": "Carbonator",
+	"description": "...",
+	"itemCapacity": 20,
+  "outputItem": [
+    { "item": "copper", "amount": 6 },
+    { "item": "lead", "amount": 6 },
+  ]
+	"size": 3,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 250,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 8.0,
+		"items": {
+			"items": [
+				{ "item": "lead", "amount": 10 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 120 },
+		{ "item": "lead", "amount": 40 },
+		{ "item": "titanium", "amount": 25 }
+	],
+	"category": "crafting",
+	"research": "coppper-wall"
+}

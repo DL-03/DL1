@@ -7,7 +7,7 @@ hasLiquids: false
 hasItems: true
 craftTime: 350
 consumes: {
-  power: 1.0
+  power: 1.6
   items: {
     items: [
       copper/9
@@ -16,10 +16,20 @@ consumes: {
   }
 }
 requirements: [
-  stone/50
-  iron/20
-  copper/50
-  lead/15
+  iron-plate/6
+  graphite-plate/6
+  aluminum-plate/6
+  lead-plate/6
+  copper-plate/6
+  stone-plate/6
+  plank-plate/6
+  iron/50
+  graphite/75
+  aluminum/75
+  lead/150
+  copper/200
+  stone/100
+  plank/25
 ]
 category: crafting
 research: copper-wall
