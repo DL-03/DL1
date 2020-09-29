@@ -1,23 +1,21 @@
 type: GenericSmelter
-name: Steel Forge 1 lvl
+name: Titanium Forge 3 lvl
 description: ...
 size: 2
 hasPower: true
-hasLiquids: true
+hasLiquids: false
 hasItems: true
-itemCapacity: 20
-craftTime: 600
+craftTime: 175
 consumes: {
-  liquid: lava/0.2
-  power: 2.5
+  power: 3.4
   items: {
     items: [
-      iron/10
-      bronze/5
+      titanium-ore/3
     ]
   }
 }
 requirements: [
+  steel-plate/6
   bronze-plate/6
   iron-plate/6
   graphite-plate/6
@@ -26,16 +24,16 @@ requirements: [
   copper-plate/6
   stone-plate/6
   plank-plate/6
-  bronze/50
-  iron/50
-  graphite/50
-  aluminum/75
-  lead/75
-  copper/75
-  stone/250
-  plank/50
-
+  steel/35
+  bronze/150
+  iron/300
+  graphite/550
+  aluminum/260
+  lead/650
+  copper/725
+  stone/1000
+  plank/275
 ]
 category: crafting
-research: copper-wall
-outputItem: steel/1
+research: titanium-forge4
+outputItem: titanium/1

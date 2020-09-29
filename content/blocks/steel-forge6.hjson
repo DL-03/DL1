@@ -1,0 +1,45 @@
+type: GenericSmelter
+name: Steel Forge 3 lvl
+description: ...
+size: 3
+hasPower: true
+hasLiquids: true
+hasItems: true
+itemCapacity: 16
+craftTime: 300
+consumes: {
+  liquid: lava/0.5
+  power: 5.5
+  items: {
+    items: [
+      iron/8
+      bronze/5
+    ]
+  }
+}
+requirements: [
+  gold-plate/9
+  steel-plate/9
+  bronze-plate/9
+  iron-plate/9
+  graphite-plate/9
+  aluminum-plate/9
+  lead-plate/9
+  copper-plate/9
+  stone-plate/9
+  plank-plate/9
+  gold/35
+  steel/75
+  bronze/200
+  iron/325
+  graphite/450
+  aluminum/275
+  lead/375
+  copper/400
+  stone/1250
+  plank/225
+
+]
+category: crafting
+research: steel-forge5
+outputItem: steel/2

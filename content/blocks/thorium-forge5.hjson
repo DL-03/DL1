@@ -1,23 +1,21 @@
 type: GenericSmelter
-name: Steel Forge 1 lvl
+name: Thorium Forge 2 lvl
 description: ...
 size: 2
 hasPower: true
-hasLiquids: true
+hasLiquids: false
 hasItems: true
-itemCapacity: 20
-craftTime: 600
+craftTime: 250
 consumes: {
-  liquid: lava/0.2
-  power: 2.5
+  power: 2.8
   items: {
     items: [
-      iron/10
-      bronze/5
+      thorium-ore/3
     ]
   }
 }
 requirements: [
+  steel-plate/6
   bronze-plate/6
   iron-plate/6
   graphite-plate/6
@@ -26,16 +24,15 @@ requirements: [
   copper-plate/6
   stone-plate/6
   plank-plate/6
-  bronze/50
-  iron/50
-  graphite/50
-  aluminum/75
-  lead/75
-  copper/75
-  stone/250
-  plank/50
-
+  steel/50
+  bronze/125
+  iron/275
+  graphite/300
+  aluminum/175
+  lead/175
+  copper/200
+  stone/555
 ]
 category: crafting
-research: copper-wall
-outputItem: steel/1
+research: thorium-forge4
+outputItem: thorium/1

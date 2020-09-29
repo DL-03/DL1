@@ -1,26 +1,35 @@
 type: GenericSmelter
-name: Thorium Forge 1
+name: Thorium Forge 1 lvl
 description: ...
 size: 2
 hasPower: true
 hasLiquids: false
 hasItems: true
-craftTime: 100
+craftTime: 300
 consumes: {
   power: 1.8
   items: {
     items: [
-      thorium-ore/3
+      thorium-ore/4
     ]
   }
 }
 requirements: [
-  stone/250
+  bronze-plate/6
+  iron-plate/6
+  graphite-plate/6
+  aluminum-plate/6
+  lead-plate/6
+  copper-plate/6
+  stone-plate/6
+  plank-plate/6
+  bronze/50
   iron/100
-  aluminum/25
-  lead/100
-  copper/100
-  bronze/25
+  graphite/100
+  aluminum/75
+  lead/75
+  copper/75
+  stone/250
 ]
 category: crafting
 research: copper-wall

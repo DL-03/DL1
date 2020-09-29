@@ -1,24 +1,34 @@
 type: GenericSmelter
-name: Titanium Forge 1
+name: Titanium Forge 1 lvl
 description: ...
 size: 2
 hasPower: true
 hasLiquids: false
 hasItems: true
-craftTime: 150
+craftTime: 325
 consumes: {
   power: 1.2
   items: {
     items: [
-      titanium-ore/3
+      titanium-ore/5
     ]
   }
 }
 requirements: [
-  stone/100
-  iron/25
-  aluminum/25
-  lead/10
+  iron-plate/6
+  graphite-plate/6
+  aluminum-plate/6
+  lead-plate/6
+  copper-plate/6
+  stone-plate/6
+  plank-plate/6
+  iron/35
+  graphite/125
+  aluminum/75
+  lead/175
+  copper/225
+  stone/550
+  plank/100
 ]
 category: crafting
 research: copper-wall
