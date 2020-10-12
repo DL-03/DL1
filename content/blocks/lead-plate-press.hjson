@@ -26,3 +26,4 @@ requirements: [
 category: crafting
 research: copper-plate-press
 outputItem: lead-plate/1
+alwaysUnlocked: true

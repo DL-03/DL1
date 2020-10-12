@@ -20,5 +20,6 @@ requirements: [
   stone/25
 ]
 category: crafting
-research: copper-wall
+research: plank-forge1
 outputItem: copper/1
+alwaysUnlocked: true

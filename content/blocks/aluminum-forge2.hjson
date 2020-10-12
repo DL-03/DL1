@@ -20,5 +20,5 @@ requirements: [
   stone/100
 ]
 category: crafting
-research: copper-wall
+research: lead-forge2
 outputItem: aluminum/1

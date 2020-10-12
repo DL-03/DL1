@@ -32,5 +32,5 @@ requirements: [
   plank/25
 ]
 category: crafting
-research: copper-wall
+research: iron-forge3
 outputItem: bronze/1

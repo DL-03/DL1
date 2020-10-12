@@ -7,3 +7,4 @@ requirements: [
 category: distribution
 speed: 0.015
 research: plank-forge1
+alwaysUnlocked: true

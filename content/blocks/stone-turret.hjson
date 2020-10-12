@@ -24,4 +24,5 @@ requirements: [
   plank/10
 ]
 category: turret
-research: core-shard
+research: plank-forge1
+alwaysUnlocked: true

@@ -24,3 +24,4 @@ requirements: [
 category: crafting
 research: stone-plate-press
 outputItem: copper-plate/1
+alwaysUnlocked: true

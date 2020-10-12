@@ -21,3 +21,4 @@ requirements: [
 category: crafting
 research: plank-forge1
 outputItem: plank-plate/1
+alwaysUnlocked: true

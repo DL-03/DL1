@@ -19,3 +19,4 @@ requirements: [
 ]
 category: production
 research: plank-conveyor
+alwaysUnlocked: true

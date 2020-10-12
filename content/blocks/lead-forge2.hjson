@@ -20,5 +20,6 @@ requirements: [
   stone/50
 ]
 category: crafting
-research: copper-wall
+research: copper-forge2
 outputItem: lead/1
+alwaysUnlocked: true

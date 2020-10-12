@@ -1,0 +1,25 @@
+name: Лесная Полянка (test)
+description: ...
+alwaysUnlocked: true
+loadout: Shard
+startingItems: [
+  copper/25
+]
+conditionWave: 10
+launchPeriod: 5
+requirements: [
+  {
+    type: ZoneWave
+    zone: groundZero
+    wave: 10
+  }
+]
+resources: [
+  wood
+  plank
+  stone
+  copper-ore
+  lead-ore
+  scrap
+  sand
+]

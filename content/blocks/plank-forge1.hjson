@@ -20,3 +20,4 @@ requirements: [
 category: crafting
 research: core-shard
 outputItem: plank/1
+alwaysUnlocked: true

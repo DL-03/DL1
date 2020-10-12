@@ -21,3 +21,4 @@ requirements: [
 category: crafting
 research: plank-plate-press
 outputItem: stone-plate/1
+alwaysUnlocked: true
