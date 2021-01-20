@@ -1,0 +1,28 @@
+type: GenericCrafter
+name: Iron Block Forge
+description: ...
+size: 2
+hasPower: false
+hasLiquids: false
+hasItems: true
+craftTime: 160
+consumes: {
+  items: {
+    items: [
+      iron-plate/6
+      copper-block/1
+    ]
+  }
+}
+requirements: [
+  copper-block/4
+  iron-plate/24
+  iron/10
+  copper/25
+  stone/100
+  plank/75
+]
+category: crafting
+research: core-shard
+outputItem: iron-block/1
+alwaysUnlocked: true

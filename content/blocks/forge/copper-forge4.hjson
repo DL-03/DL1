@@ -1,0 +1,27 @@
+type: GenericSmelter
+name: Copper Forge 3 lvl
+description: ...
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 75
+consumes: {
+  power: 1.2
+  items: {
+    items: [
+      copper-ore/3
+    ]
+  }
+}
+requirements: [
+  bronze-block/4
+  bronze/25
+  iron/50
+  stone/175
+  lead/150
+  copper/150
+]
+category: crafting
+research: copper-forge3
+outputItem: copper/1

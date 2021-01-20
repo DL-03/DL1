@@ -1,0 +1,31 @@
+type: GenericSmelter
+name: Plank Forge 5 lvl
+description: ...
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 40
+consumes: {
+  power: 1.8
+  items: {
+    items: [
+      wood/2
+    ]
+  }
+}
+requirements: [
+  steel-block/4
+  steel/25
+  bronze/50
+  iron/75
+  graphite/100
+  aluminum/250
+  lead/250
+  copper/100
+  stone/750
+  plank/150
+]
+category: crafting
+research: plank-forge4
+outputItem: plank/2

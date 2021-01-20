@@ -1,0 +1,26 @@
+type: GenericCrafter
+name: Copper Block Forge
+description: ...
+size: 2
+hasPower: false
+hasLiquids: false
+hasItems: true
+craftTime: 100
+consumes: {
+  items: {
+    items: [
+      lead-plate/6
+      copper-block/1
+    ]
+  }
+}
+requirements: [
+  copper-block/4
+  copper/35
+  stone/100
+  plank/75
+]
+category: crafting
+research: core-shard
+outputItem: lead-block/1
+alwaysUnlocked: true

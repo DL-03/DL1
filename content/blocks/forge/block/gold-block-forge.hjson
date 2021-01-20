@@ -1,0 +1,32 @@
+type: GenericCrafter
+name: Gold Block Forge
+description: ...
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 250
+consumes: {
+  power: 2.0
+  items: {
+    items: [
+      gold-plate/6
+      steel-block/1
+    ]
+  }
+}
+requirements: [
+  steel-block/4
+  gold-plate/24
+  gold/25
+  steel/50
+  bronze/80
+  iron/120
+  copper/175
+  stone/575
+  plank/325
+]
+category: crafting
+research: core-shard
+outputItem: gold-block/1
+alwaysUnlocked: true

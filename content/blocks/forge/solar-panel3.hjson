@@ -1,0 +1,17 @@
+type: SolarGenerator
+name: Solar Panel 3 lvl
+description: ...
+size: 2
+hasPower: true
+hasItems: false
+hasLiquids: false
+powerProduction: 0.2
+requirements: [
+  iron-block/4
+  iron/50
+  stone/100
+  plank/50
+  silicon/20
+]
+category: power
+research: solar-panel2

@@ -1,0 +1,10 @@
+name: Large Iron Wall
+description: ...
+type: Wall
+health: 1500
+size: 2
+requirements: [
+  iron-block/4
+]
+category: defense
+research: iron-wall

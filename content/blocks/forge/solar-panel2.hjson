@@ -1,0 +1,16 @@
+type: SolarGenerator
+name: Solar Panel 2 lvl
+description: ...
+size: 2
+hasPower: true
+hasItems: false
+hasLiquids: false
+powerProduction: 0.04
+requirements: [
+  stone-block/4
+  stone/50
+  plank/50
+  silicon/10
+]
+category: power
+research: solar-panel1

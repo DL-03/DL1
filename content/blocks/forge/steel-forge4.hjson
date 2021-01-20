@@ -1,0 +1,34 @@
+type: GenericSmelter
+name: Steel Forge 1 lvl
+description: ...
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+itemCapacity: 20
+craftTime: 600
+consumes: {
+  liquid: lava/0.2
+  power: 2.5
+  items: {
+    items: [
+      iron/10
+      bronze/5
+    ]
+  }
+}
+requirements: [
+  bronze-block/4
+  bronze/50
+  iron/50
+  graphite/50
+  aluminum/75
+  lead/75
+  copper/75
+  stone/250
+  plank/50
+
+]
+category: crafting
+research: copper-wall
+outputItem: steel/1

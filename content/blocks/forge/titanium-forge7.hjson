@@ -1,0 +1,33 @@
+type: GenericSmelter
+name: Titanium Forge 5 lvl
+description: ...
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 85
+consumes: {
+  power: 6.4
+  items: {
+    items: [
+      titanium-ore/3
+    ]
+  }
+}
+requirements: [
+  diamond-block/9
+  diamond/65
+  gold/100
+  steel/150
+  bronze/350
+  iron/750
+  graphite/1000
+  aluminum/750
+  lead/1250
+  copper/1500
+  stone/1950
+  plank/500
+]
+category: crafting
+research: titanium-forge6
+outputItem: titanium/2

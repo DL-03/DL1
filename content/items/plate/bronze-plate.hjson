@@ -1,0 +1,9 @@
+type: material
+name: Bronze Plate
+description: ...
+color: ff6600
+explosiveness: 0f
+fliammbility: 0f
+radiioactivity: 0f
+hardness: 2
+cost: 1f

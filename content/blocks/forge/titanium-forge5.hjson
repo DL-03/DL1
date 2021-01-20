@@ -1,0 +1,31 @@
+type: GenericSmelter
+name: Titanium Forge 3 lvl
+description: ...
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 175
+consumes: {
+  power: 3.4
+  items: {
+    items: [
+      titanium-ore/3
+    ]
+  }
+}
+requirements: [
+  steel-block/4
+  steel/35
+  bronze/150
+  iron/300
+  graphite/550
+  aluminum/260
+  lead/650
+  copper/725
+  stone/1000
+  plank/275
+]
+category: crafting
+research: titanium-forge4
+outputItem: titanium/1

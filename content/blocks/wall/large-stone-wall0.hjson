@@ -1,0 +1,10 @@
+name: Large Stone Wall
+description: ...
+type: Wall
+health: 860
+size: 2
+requirements: [
+  stone-block/4
+]
+category: defense
+research: stone-wall0

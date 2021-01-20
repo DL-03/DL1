@@ -1,0 +1,30 @@
+type: GenericSmelter
+name: Copper Forge 6 lvl
+description: ...
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 10
+consumes: {
+  power: 3.6
+  items: {
+    items: [
+      copper-ore/3
+    ]
+  }
+}
+requirements: [
+  diamond-block/9
+  diamond/25
+  gold/50
+  steel/75
+  bronze/200
+  iron/500
+  stone/1750
+  lead/1500
+  copper/1500
+]
+category: crafting
+research: copper-forge6
+outputItem: copper/2

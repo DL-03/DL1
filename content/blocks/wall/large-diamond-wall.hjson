@@ -1,0 +1,10 @@
+name: Large Diamond Wall
+description: ...
+type: Wall
+health: 12000
+size: 2
+requirements: [
+  diamond-block/4
+]
+category: defense
+research: iron-wall

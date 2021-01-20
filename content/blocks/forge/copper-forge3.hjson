@@ -1,0 +1,26 @@
+type: GenericSmelter
+name: Copper Forge 2 lvl
+description: ...
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 100
+consumes: {
+  power: 0.6
+  items: {
+    items: [
+      copper-ore/4
+    ]
+  }
+}
+requirements: [
+  iron-block/4
+  iron/25
+  stone/75
+  lead/75
+  copper/75
+]
+category: crafting
+research: copper-forge2
+outputItem: copper/1

@@ -1,0 +1,18 @@
+type: SolarGenerator
+name: Solar Panel 4 lvl
+description: ...
+size: 2
+hasPower: true
+hasItems: false
+hasLiquids: false
+powerProduction: 0.6
+requirements: [
+  bronze-block/4
+  bronze/25
+  iron/75
+  stone/150
+  plank/75
+  silicon/30
+]
+category: power
+research: solar-panel3

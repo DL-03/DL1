@@ -1,0 +1,10 @@
+name: Amethyst Wall
+description: ...
+type: Wall
+health: 7600
+size: 1
+requirements: [
+  amethyst-block/4
+]
+category: defense
+research: large-diamond-wall

@@ -1,0 +1,10 @@
+
+type: material
+name: Plank Block
+description: ...
+color: aa7722
+explosiveness: 0f
+fliammbility: 0.55f
+radiioactivity: 0f
+hardness: 1
+cost: 0.325f

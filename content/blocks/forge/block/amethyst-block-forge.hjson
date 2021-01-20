@@ -1,0 +1,34 @@
+type: GenericCrafter
+name: Amethyst Block Forge
+description: ...
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 285
+consumes: {
+  power: 3.4
+  items: {
+    items: [
+      amethyst-plate/6
+      diamond-block/1
+    ]
+  }
+}
+requirements: [
+  diamond-block/4
+  amethyst-plate/24
+  amethyst/25
+  diamond/65
+  gold/100
+  steel/250
+  bronze/300
+  iron/425
+  copper/575
+  stone/1500
+  plank/950
+]
+category: crafting
+research: core-shard
+outputItem: amethyst-block/1
+alwaysUnlocked: true
