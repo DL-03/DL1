@@ -1,0 +1,16 @@
+type: Conveyor
+name: Amethyst conveyor
+description: ...
+requirements: [
+  amethyst/2
+  diamond/3
+  gold/5
+  steel/8
+  iron/10
+  stone/15
+  plank/15
+]
+category: distribution
+speed: 0.35
+research: diamond-conveyor
+alwaysUnlocked: true

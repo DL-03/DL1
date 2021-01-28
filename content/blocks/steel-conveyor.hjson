@@ -1,0 +1,13 @@
+type: Conveyor
+name: Steel conveyor
+description: ...
+requirements: [
+  steel/1
+  iron/2
+  stone/6
+  plank/4
+]
+category: distribution
+speed: 0.05
+research: iron-conveyor
+alwaysUnlocked: true
