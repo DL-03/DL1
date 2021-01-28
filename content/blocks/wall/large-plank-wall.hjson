@@ -1,0 +1,10 @@
+name: Large Plank Wall
+description: ...
+type: Wall
+health: 720
+size: 2
+requirements: [
+  plank-block/4
+]
+category: defense
+research: plank-wall

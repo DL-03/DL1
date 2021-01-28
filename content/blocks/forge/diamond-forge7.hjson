@@ -1,0 +1,30 @@
+type: GenericSmelter
+name: Diamond Forge 2 lvl
+description: ...
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 150
+consumes: {
+  power: 3.6
+  items: {
+    items: [
+      diamond-ore/2
+    ]
+  }
+}
+requirements: [
+  diamond-block/9
+  diamond/25
+  gold/50
+  steel/75
+  bronze/180
+  iron/450
+  stone/1650
+  lead/1100
+  copper/1250
+]
+category: crafting
+research: diamond-forge6
+outputItem: diamond/1

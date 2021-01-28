@@ -1,0 +1,26 @@
+type: GenericCrafter
+name: Stone Block Forge
+description: ...
+size: 2
+hasPower: false
+hasLiquids: false
+hasItems: true
+craftTime: 165
+consumes: {
+  items: {
+    items: [
+      stone-plate/6
+      plank-block/1
+    ]
+  }
+}
+requirements: [
+  plank-block/1
+  stone-plate/6
+  stone/30
+  plank/20
+]
+category: crafting
+research: core-shard
+outputItem: stone-block/1
+alwaysUnlocked: true

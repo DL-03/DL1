@@ -1,0 +1,33 @@
+type: GenericSmelter
+name: Plank Forge 7 lvl
+description: ...
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 5
+consumes: {
+  power: 5.0
+  items: {
+    items: [
+      wood/2
+    ]
+  }
+}
+requirements: [
+  diamond-block/9
+  diamond/25
+  gold/75
+  steel/250
+  bronze/350
+  iron/300
+  graphite/500
+  aluminum/1000
+  lead/1000
+  copper/1000
+  stone/4000
+  plank/500
+]
+category: crafting
+research: plank-forge6
+outputItem: plank/3

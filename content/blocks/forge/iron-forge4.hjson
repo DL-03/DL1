@@ -1,0 +1,29 @@
+type: GenericSmelter
+name: Iron Forge 3 lvl
+description: ...
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 175
+consumes: {
+  power: 1
+  items: {
+    items: [
+      iron-ore/3
+    ]
+  }
+}
+requirements: [
+  bronze-block/4
+  bronze/25
+  graphite/50
+  aluminum/50
+  iron/50
+  stone/450
+  lead/100
+  copper/100
+]
+category: crafting
+research: iron-forge3
+outputItem: iron/1

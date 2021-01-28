@@ -1,0 +1,23 @@
+type: GenericCrafter
+name: Plank Block Forge
+description: ...
+size: 2
+hasPower: false
+hasLiquids: false
+hasItems: true
+craftTime: 150
+consumes: {
+  items: {
+    items: [
+      plank-plate/6
+    ]
+  }
+}
+requirements: [
+  plank-plate/6
+  plank/10
+]
+category: crafting
+research: core-shard
+outputItem: plank-block/1
+alwaysUnlocked: true

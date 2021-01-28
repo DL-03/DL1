@@ -1,0 +1,10 @@
+name: Stone Wall
+description: ...
+type: Wall
+health: 240
+size: 1
+requirements: [
+  stone-block/1
+]
+category: defense
+research: large-plank-wall

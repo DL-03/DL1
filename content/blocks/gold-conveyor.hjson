@@ -1,0 +1,14 @@
+type: Conveyor
+name: Gold conveyor
+description: ...
+requirements: [
+  gold/2
+  steel/2
+  iron/5
+  stone/7
+  plank/7
+]
+category: distribution
+speed: 0.1
+research: steel-conveyor
+alwaysUnlocked: true

@@ -1,0 +1,11 @@
+type: Conveyor
+name: Stone conveyor
+description: ...
+requirements: [
+  stone/1
+  plank/2
+]
+category: distribution
+speed: 0.02
+research: plank-conveyor
+alwaysUnlocked: true

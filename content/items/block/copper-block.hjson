@@ -1,0 +1,10 @@
+
+type: material
+name: Copper Block
+description: ...
+color: ffffff
+explosiveness: 0f
+fliammbility: 0f
+radiioactivity: 0f
+hardness: 1
+cost: 0.255f

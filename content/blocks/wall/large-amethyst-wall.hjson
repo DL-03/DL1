@@ -1,0 +1,10 @@
+name: Large Amethyst Wall
+description: ...
+type: Wall
+health: 16000
+size: 2
+requirements: [
+  amethyst-block/6
+]
+category: defense
+research: amethyst-wall

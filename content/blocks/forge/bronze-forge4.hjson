@@ -1,0 +1,31 @@
+type: GenericSmelter
+name: Bronze Forge 2 lvl
+description: ...
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 300
+consumes: {
+  power: 3.6
+  items: {
+    items: [
+      copper/7
+      aluminum/2
+    ]
+  }
+}
+requirements: [
+  bronze-block/4
+  bronze/35
+  iron/100
+  graphite/135
+  aluminum/150
+  lead/300
+  copper/300
+  stone/300
+  plank/75
+]
+category: crafting
+research: bronze-forge3
+outputItem: bronze/1

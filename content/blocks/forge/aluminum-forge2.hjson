@@ -1,0 +1,23 @@
+type: GenericSmelter
+name: Aluminum Forge 1 lvl
+description: ...
+size: 2
+hasPower: false
+hasLiquids: false
+hasItems: true
+craftTime: 450
+consumes: {
+  items: {
+    items: [
+      aluminum-ore/5
+      coal/5
+    ]
+  }
+}
+requirements: [
+  stone-block/4
+  stone/100
+]
+category: crafting
+research: lead-forge2
+outputItem: aluminum/1

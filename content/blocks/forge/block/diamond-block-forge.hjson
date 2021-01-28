@@ -1,0 +1,33 @@
+type: GenericCrafter
+name: Diamond Block Forge
+description: ...
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 250
+consumes: {
+  power: 2.8
+  items: {
+    items: [
+      diamond-plate/6
+      gold-block/1
+    ]
+  }
+}
+requirements: [
+  gold-block/4
+  diamond-plate/24
+  diamond/25
+  gold/50
+  steel/100
+  bronze/160
+  iron/200
+  copper/345
+  stone/1000
+  plank/750
+]
+category: crafting
+research: core-shard
+outputItem: diamond-block/1
+alwaysUnlocked: true

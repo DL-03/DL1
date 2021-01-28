@@ -1,22 +1,25 @@
-type: DoubleTurret
+type: ItemTurret
 name: Stone Turret
 description: ...
 health: 100
 size: 1
 reload: 4
 range: 100
-ammoUseEffect: shellEjectSmall
+maxAmmo: 10
 inaccuracy: 10
 rotatespeed: 12
-ammo: {
+ammoTypes: {
   stone: {
-    speed: 3
-    damage: 3
-    bulletWidth: 7
-    bulletHeight: 9
-    shootEffect: shootSmall
-    smokeEffect: shootSmallSmoke
-    ammoMultiplier: 5
+    type: BasicBulletType
+      speed: 3
+      damage: 3
+      bulletWidth: 7
+      bulletHeight: 9
+      frontColor: 666666
+		  backColor: 666666
+      shootEffect: shootSmall
+      smokeEffect: shootSmallSmoke
+      ammoMultiplier: 5
   }
 }
 requirements: [
@@ -26,3 +29,4 @@ requirements: [
 category: turret
 research: plank-forge1
 alwaysUnlocked: true
+

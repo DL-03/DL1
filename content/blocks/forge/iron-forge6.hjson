@@ -1,0 +1,31 @@
+type: GenericSmelter
+name: Iron Forge 5 lvl
+description: ...
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 100
+consumes: {
+  power: 2.2
+  items: {
+    items: [
+      iron-ore/4
+    ]
+  }
+}
+requirements: [
+  gold-block/9
+  gold/25
+  steel/50
+  bronze/75
+  graphite/175
+  aluminum/175
+  iron/175
+  stone/800
+  lead/650
+  copper/650
+]
+category: crafting
+research: iron-forge5
+outputItem: iron/2

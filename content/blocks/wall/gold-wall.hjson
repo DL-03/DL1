@@ -1,0 +1,10 @@
+name: Gold Wall
+description: ...
+type: Wall
+health: 780
+size: 1
+requirements: [
+  gold-block/1
+]
+category: defense
+research: large-steel-wall

@@ -1,0 +1,31 @@
+type: GenericCrafter
+name: Steel Block Forge
+description: ...
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 225
+consumes: {
+  power: 1.6
+  items: {
+    items: [
+      steel-plate/6
+      bronze-block/1
+    ]
+  }
+}
+requirements: [
+  bronze-block/4
+  steel-plate/24
+  steel/25
+  bronze/50
+  iron/75
+  copper/100
+  stone/300
+  plank/200
+]
+category: crafting
+research: core-shard
+outputItem: steel-block/1
+alwaysUnlocked: true

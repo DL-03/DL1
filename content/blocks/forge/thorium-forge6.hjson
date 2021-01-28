@@ -1,0 +1,31 @@
+type: GenericSmelter
+name: Thorium Forge 3 lvl
+description: ...
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 175
+consumes: {
+  power: 4.6
+  items: {
+    items: [
+      thorium-ore/4
+    ]
+  }
+}
+requirements: [
+  gold-block/9
+  gold/75
+  steel/100
+  bronze/350
+  iron/550
+  graphite/750
+  aluminum/475
+  lead/375
+  copper/425
+  stone/1000
+]
+category: crafting
+research: thorium-forge5
+outputItem: thorium/2

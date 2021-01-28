@@ -1,0 +1,33 @@
+type: GenericSmelter
+name: Gold Forge 2 lvl
+description: ...
+size: 3
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 150
+consumes: {
+  power: 3.8
+  items: {
+    items: [
+      gold-ore/4
+    ]
+  }
+}
+requirements: [
+  gold-block/9  
+  gold/25
+  steel/50
+  bronze/125
+  iron/200
+  graphite/500
+  aluminum/250
+  lead/350
+  copper/450
+  stone/1000
+  plank/150
+
+]
+category: crafting
+research: gold-forge5
+outputItem: gold/2

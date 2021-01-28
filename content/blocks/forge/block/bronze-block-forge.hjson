@@ -1,0 +1,30 @@
+type: GenericCrafter
+name: Bronze Block Forge
+description: ...
+size: 2
+hasPower: true
+hasLiquids: false
+hasItems: true
+craftTime: 195
+consumes: {
+  power: 0.8
+  items: {
+    items: [
+      bronze-plate/6
+      iron-block/1
+    ]
+  }
+}
+requirements: [
+  iron-block/4
+  bronze-plate/24
+  bronze/25
+  iron/25
+  copper/50
+  stone/150
+  plank/100
+]
+category: crafting
+research: core-shard
+outputItem: bronze-block/1
+alwaysUnlocked: true

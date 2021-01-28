@@ -1,0 +1,9 @@
+type: resource
+name: Thorium Ore
+description: ...
+color: a576a7
+explosiveness: 0.1f
+fliammbility: 0f
+radiioactivity: 0.1f
+hardness: 3
+cost: 1f

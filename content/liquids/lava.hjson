@@ -1,0 +1,8 @@
+name: Lava
+description: ...
+color: ff2200
+explosiveness: 0
+fliammbility: 1
+temperature: 10.0
+visicosity: 0.9
+flameColor: ff2200
