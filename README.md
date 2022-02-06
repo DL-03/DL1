@@ -1,2 +1,4 @@
 # DL1
-Версия Mindustry 6.0
+Минимальная версия Mindustry: 105
+
+Версия Mindustry: 6.0
